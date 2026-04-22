@@ -3,7 +3,7 @@ Desarrollador Fullstack especializado en tecnologias backend como Java, Node.js 
 
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thomas Murua) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/thomas-murua-278a83261/))](https://linkedin.com/in/Thomas Murua) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muruaThomasn@gmail.com) 
 
 # 💻 Tecnologías:
